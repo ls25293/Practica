@@ -1,0 +1,222 @@
+header {
+	/*width: 350px;*/
+	/*width: 100%;
+	
+	/*
+	border-bottom: 1px;
+	border-left: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	
+	
+	padding-bottom: 30px;
+	
+	border-color: black;
+	border-style: solid;
+	*/
+
+	height: 10%;
+
+	background-image:url("images/opacitat.png");
+	font-family: Verdana;
+	color: white;
+	
+
+}
+
+body {
+	width: 100%;
+	/*width: 350px;*/
+	margin:0%;
+	margin-top:0%;
+
+
+	border-color: black;
+	
+	background-image: url("images/fons2.jpg");
+	background-size: 37% 100%;
+	background-repeat: no-repeat;
+	/*background-position: 8px 13px;*/
+
+
+}
+
+footer {
+	/*width: 350px;
+	width: 100%;*/
+	/*height: 130px;
+	border: 1px;
+	
+	
+	border-color: blue;
+	border-style: solid;*/
+	
+	background-image:url("images/opacitat.png");
+	padding: 2%;
+	
+	width:100%;
+	height: 100%;
+}
+
+#logo {
+	width: 10%;
+	height: 10%;
+	float: left;
+	padding-right: 1%;
+
+}
+
+#caratulaCD {
+	/*src="images/logo2.png"*/
+
+	/*background-image: url("images/frontal.jpg");
+	background-size: 100% 100%;*/
+	width: 10%;
+	height: 10%;
+	float: left;
+	/*padding-right: 1%;*/
+	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, transparent, transparent);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50%;
+  border-color: transparent;
+}
+
+h1 {
+	padding-top: 2%;
+	padding-bottom: 1%;
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+h2 {
+	color: white;
+	font-family: Raavi;
+	display: inline;	
+
+}
+h3{
+	color: white;
+	font-family: Verdana;
+	padding-left: 12%;
+}
+
+h4{
+	color: white;
+	font-family: Verdana;
+	padding-left: 12%;
+	font-size: 80%;
+	padding-top: 1%;
+}
+
+#playlist{
+	width: 100%;
+	height: 100%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border-bottom: solid;
+	border-top: solid;
+	/*
+	border-left: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	*/
+	border-color: white;
+	border-style: solid;
+	border-bottom-width: 0.001%;
+}
+
+#videos {
+	/*
+	padding: 60px;*/
+	width:100%;
+	height: 60%;
+}
+
+#recommendations {
+	width:100%;
+	height: 60%;
+}
+
+
+#inputSearch{
+	
+	border-color: transparent;
+}
+#tfnewsearch{
+	margin-bottom: 2%;
+}
+
+#botonsRepro{
+	padding-top: 2%;
+	padding-left: 15%;
+	
+
+}
+
+
+#botonsLaterals{
+	 width: 10%;
+	 height: 10%;
+}
+
+#botoPlay{
+	background-image: url("images/play.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 240%;
+	color:transparent;
+	margin-left: 3%;
+}
+
+#anterior{
+	background-image: url("images/anterior.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 160%;
+	color:transparent;
+}
+
+#seguent{
+	background-image: url("images/seguent.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 160%;
+	color:transparent;
+}
+#buttonSearch{
+	background-image: url("images/search.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 80%;
+	color:transparent;
+}
+
+p{
+	color: white;
+	margin: 1%;
+	padding-left: 13%;
+	font-family: verdana;
+	font-size: 80%;
+}
+
+figure{
+	margin-right: 0%;
+	float: left;
+}
+
+li{
+	margin-bottom:8%;
+}
