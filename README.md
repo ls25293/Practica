@@ -1,1 +1,4 @@
 # Practica
+Esta aplicacion consiste en una pagina web que permite buscar música usando Last.FM y reproducirla mediante el reproductor de Youtube. Cuando un usuario introduzca algo en la caja de texto y pulse el icono de buscar, este buscará según el título de la canción hasta 10 resultados, y mostrará en la página web el título de la canción, el artista, el albúm y la id de la canción, además de la imagen del album. Cuando un usuario pulse una de las imágenes del álbum, se abrirá debajo del todo de la aplicación un embed con un video de Youtube para poder escuchar tal canción.
+
+Además, el programa también guardará en una base de datos las canciones reproducidas. Cuando un usuario entra de nuevo a la aplicación, buscará las últimas 10 canciones reproducidas, y aleatoriamente cogerá una de las canciones y mostrará por la página web hasta 10 canciones con título similar a la canción buscada.
